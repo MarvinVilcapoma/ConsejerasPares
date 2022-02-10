@@ -1,0 +1,9 @@
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Model\obj\Debug\netcoreapp3.1\Model.csproj.AssemblyReference.cache
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Model\obj\Debug\netcoreapp3.1\Model.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x2aHOTqw+Rbx6Bw8G0HCqmzP2Vmttis4eIpg2pWHm28qFY8StA8XtXUyZFHebxfH9he0ZIQj2jyCBeLwslhewA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marvi\\source\\repos\\ConsejeraPares\\ConsejeraParesAPI\\ConsejeraParesAPI\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marvi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marvi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\marvi\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common.AspNetCore\bin\Debug\netstandard2.0\Common.AspNetCore.deps.json
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common.AspNetCore\bin\Debug\netstandard2.0\Common.AspNetCore.dll
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common.AspNetCore\bin\Debug\netstandard2.0\Common.AspNetCore.pdb
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common.AspNetCore\bin\Debug\netstandard2.0\Common.dll
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common.AspNetCore\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common.AspNetCore\obj\Debug\netstandard2.0\Common.AspNetCore.csproj.AssemblyReference.cache
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common.AspNetCore\obj\Debug\netstandard2.0\Common.AspNetCore.AssemblyInfoInputs.cache
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common.AspNetCore\obj\Debug\netstandard2.0\Common.AspNetCore.AssemblyInfo.cs
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common.AspNetCore\obj\Debug\netstandard2.0\Common.AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common.AspNetCore\obj\Debug\netstandard2.0\Common.AspNetCore.csproj.CopyComplete
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common.AspNetCore\obj\Debug\netstandard2.0\Common.AspNetCore.dll
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common.AspNetCore\obj\Debug\netstandard2.0\Common.AspNetCore.pdb

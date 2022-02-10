@@ -1,0 +1,13 @@
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Domain\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Domain\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Domain\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

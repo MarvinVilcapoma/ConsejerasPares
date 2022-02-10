@@ -1,0 +1,9 @@
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\marvi\source\repos\ConsejeraPares\ConsejeraParesAPI\ConsejeraParesAPI\Common\obj\Debug\netstandard2.0\Common.pdb
